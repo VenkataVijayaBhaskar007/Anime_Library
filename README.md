@@ -22,19 +22,20 @@ Welcome to the *Manga Book Selling Website*! This web application is developed u
 
 ## Installation and Setup
 
-1. **Clone the Repository:**
-   ```bash
+
+**1.Clone the Repository:**
+   bash
    git clone https://github.com/your-username/manga-book-website.git
 
-**1.Database Setup:**
+**2.Database Setup:**
 
 Create a MySQL database and import the provided SQL file (database.sql).
 
-**2.Configuration:**
+**3.Configuration:**
 
 Update the database connection details in the config.php file.
 
-**3.Run the Application:**
+**4.Run the Application:**
 
 Deploy the application on a PHP-supported server.
 
